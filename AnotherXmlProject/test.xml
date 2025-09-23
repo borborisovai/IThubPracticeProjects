@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentbook>
+    <student>
+        <FirstName>Александр</FirstName>
+        <LastName>Абобов</LastName>
+    </student>
+    <student>
+        <FirstName>Иван</FirstName>
+        <LastName>Иванов</LastName>
+    </student>
+</studentbook>

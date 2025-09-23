@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE catalog [
+    <!ELEMENT catalog (book)>
+    <!ELEMENT book (title, author, value)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT value ANY>
+
+    <!ATTLIST book 
+        isbn CDATA #REQUIRED
+        lang (ru|en) #IMPLIED>
+
+    <!ENTITY ithub "АНО ТО ИТХАБ СПБ">
+]>
+<catalog>
+    <book isbn="12345-1234-123" lang="ru">
+        <title>Homestuck</title>
+        <author>Andrew</author>
+        <value>&ithub;</value>
+    </book>
+</catalog>

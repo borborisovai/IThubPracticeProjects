@@ -1,0 +1,15 @@
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/bin/Debug/net9.0/ControlPoint1
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/bin/Debug/net9.0/ControlPoint1.deps.json
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/bin/Debug/net9.0/ControlPoint1.runtimeconfig.json
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/bin/Debug/net9.0/ControlPoint1.dll
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/bin/Debug/net9.0/ControlPoint1.pdb
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.GeneratedMSBuildEditorConfig.editorconfig
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.AssemblyInfoInputs.cache
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.AssemblyInfo.cs
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.csproj.CoreCompileInputs.cache
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.sourcelink.json
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.dll
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/refint/ControlPoint1.dll
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.pdb
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ControlPoint1.genruntimeconfig.cache
+/home/topa/Documents/f/ControlPoint1/ControlPoint1/obj/Debug/net9.0/ref/ControlPoint1.dll

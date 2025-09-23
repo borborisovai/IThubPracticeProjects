@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OE1A3g46xfk=",
+  "success": true,
+  "projectFilePath": "/home/topa/Documents/source/repo/ControlPoint1/ControlPoint1/ControlPoint1.csproj",
+  "expectedPackageFiles": [
+    "/home/topa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
