@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "index.dtd"> 
+<timeTable>
+<complexes>
+    <complex Code="a"><name>15</name><address>15</address></complex>
+    <complex Code="b"><name>11</name><address>11</address></complex>
+</complexes>
+<lessons>
+    <lesson no="a" complex="a"><date>13.04</date><time>15:00</time></lesson>
+    <lesson no="b" complex="b"><date>15.05</date><time>12:00</time></lesson>
+</lessons>
+</timeTable>

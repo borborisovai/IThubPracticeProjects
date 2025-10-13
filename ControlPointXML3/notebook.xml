@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notebook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="notebook.xsd">
+
+    <offices>
+        <office code="A1">Headquarters</office>
+        <office code="B2">Regional Office</office>
+    </offices>
+
+    <person id="p1" office="A1">
+        <name>
+            <first>Ivan</first>
+            <surname>Petrov</surname>
+        </name>
+        <address>
+            <city>Moscow</city>
+            <street>Lenina 10</street>
+            <index>123456</index>
+        </address>
+        <phones>
+            <phone type="work">123-45-67</phone>
+            <phone type="home">234-56-78</phone>
+        </phones>
+    </person>
+
+    <person id="p2" office="B2">
+        <name>
+            <first>Anna</first>
+            <surname>Ivanova</surname>
+        </name>
+        <address>
+            <index>654321</index>
+            <street>Pushkina 5</street>
+            <city>Saint Petersburg</city>
+        </address>
+        <phones>
+            <phone>345-67-89</phone>
+        </phones>
+    </person>
+
+</notebook>

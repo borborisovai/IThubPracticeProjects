@@ -1,0 +1,15 @@
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net9.0/ConsoleApp5
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net9.0/ConsoleApp5.deps.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net9.0/ConsoleApp5.runtimeconfig.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net9.0/ConsoleApp5.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/bin/Debug/net9.0/ConsoleApp5.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.AssemblyInfoInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.AssemblyInfo.cs
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.sourcelink.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/refint/ConsoleApp5.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ConsoleApp5.genruntimeconfig.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp5/ConsoleApp5/obj/Debug/net9.0/ref/ConsoleApp5.dll
