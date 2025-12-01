@@ -1,0 +1,17 @@
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\bin\Debug\net8.0-windows\ControlPoint4.exe
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\bin\Debug\net8.0-windows\ControlPoint4.deps.json
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\bin\Debug\net8.0-windows\ControlPoint4.runtimeconfig.json
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\bin\Debug\net8.0-windows\ControlPoint4.dll
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\bin\Debug\net8.0-windows\ControlPoint4.pdb
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.Form1.resources
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.csproj.GenerateResource.cache
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.GeneratedMSBuildEditorConfig.editorconfig
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.AssemblyInfoInputs.cache
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.AssemblyInfo.cs
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.csproj.CoreCompileInputs.cache
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.sourcelink.json
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.dll
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\refint\ControlPoint4.dll
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.pdb
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ControlPoint4.genruntimeconfig.cache
+\\tsclient\home\Documents\source\repo\IThubPracticeProjects\ControlPoint4\ControlPoint4\obj\Debug\net8.0-windows\ref\ControlPoint4.dll

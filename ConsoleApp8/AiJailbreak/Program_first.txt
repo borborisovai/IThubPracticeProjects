@@ -1,0 +1,27 @@
+﻿string file1;
+string file2;
+
+try
+{
+    file1 = File.ReadAllText(args[0]);
+    file2 = File.ReadAllText(args[1]);
+}
+catch (Exception ex)
+{
+    file1 = File.ReadAllText("line1.txt");
+    file2 = File.ReadAllText("line2.txt");
+    Console.WriteLine("using default files: " + ex.Message); 
+}
+
+
+List<string> line1 = file1.Split(' ').ToList();
+List<string> line2 = file2.Split(' ').ToList();
+
+List<string> result = new();
+
+foreach (string word in line1)
+{
+    if (word == line2.FirstOrDefault(x => x == word)) result.Add(word);
+}
+
+Console.WriteLine(result.Count);

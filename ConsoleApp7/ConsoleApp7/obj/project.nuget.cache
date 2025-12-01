@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyCoz9pDmqY=",
+  "success": true,
+  "projectFilePath": "/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp7/ConsoleApp7/ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "/home/topa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

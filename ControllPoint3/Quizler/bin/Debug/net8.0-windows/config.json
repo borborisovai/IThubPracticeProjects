@@ -1,0 +1,26 @@
+{
+    "currentQuestion":0,
+    "questions":[
+        {
+            "title": "Вопрос 1",
+            "description":"Вопрос 1",
+            "type":"radio",
+            "variables":["Вариант 1", "Вариант 2", "Вариант 3"],
+            "answers": ["Вариант 1"]
+        },
+                {
+            "title": "Вопрос 2",
+            "description":"Вопрос 2",
+            "type":"check",
+            "variables":["пкрщшпрщш 1", "Вариант 2", "Вариант 3"],
+            "answers": ["Вариант 1", "Вариант 2", "Вариант 3"]
+        },
+                {
+            "title": "Вопрос 3",
+            "description":"Вопрос 3",
+            "type":"textbox",
+            "variables":[],
+            "answers": ["Вариант 1"]
+        }
+    ]
+}

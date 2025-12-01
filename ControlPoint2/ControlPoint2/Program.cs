@@ -86,7 +86,7 @@ for (; 1 > 0;)
                             }
                             try
                             {
-                                GameSettings.MaxLevel = int.Parse(argu[1]);
+                                GameSettings.MaxLevel = int.Parse(argu[0]);
                             }
                             catch
                             {

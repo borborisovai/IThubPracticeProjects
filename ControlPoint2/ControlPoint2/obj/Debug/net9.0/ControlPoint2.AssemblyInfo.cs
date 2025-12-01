@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlPoint2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25596aae7ea94210aa4477790a171644098106ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285e85fc6a9f1845016a307e086ad49855cbe37d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlPoint2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlPoint2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

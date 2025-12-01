@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6tsWHiN0hW4=",
+  "success": true,
+  "projectFilePath": "/home/topa/Documents/source/repo/IThubPracticeProjects/WinFormsApp1/WinFormsApp1/WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/topa/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/topa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/topa/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

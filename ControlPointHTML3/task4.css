@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+.featured-post-listing {
+	background-color: #e6ffff;
+	padding: 1rem 0;
+        display: flex;
+    justify-content:space-around;
+    align-items: self-start;
+}
+
+.post-card {
+	background-color: white;
+	box-sizing: border-box;
+	box-shadow: 1px 1px 2px #5b8a8c;
+	padding: 1rem;
+	max-width: 28%;
+}
+
+.post-card h3 {
+	background-color: #009191;
+	color: white;
+	margin: 0;
+	padding: .5rem 1rem;
+}
+
+.post-card p {
+	margin: 0;
+	padding: 1rem;
+}

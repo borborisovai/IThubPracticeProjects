@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="demo-3.xsl"?>
+<items>
+    <element name="computer" value="Intel Core Duo" onstore="yes" color="красный"/>
+    <element name="monitor" value="Dell 23'" onstore="yes" color="жолтый"/>
+    <element name="computer" value="Intel Core i5" onstore="no" color="красный"/>
+    <element name="computer" value="Intel Core i7" onstore="yes"/>
+    <element name="printer" value="LBP 2900" onstore="no" color="синий"/>
+    <element name="monitor" value="HP 21'" onstore="yes" color="синий"/>
+    <element name="printer" value="Canon 3211" onstore="yes" color="жолтый"/>
+</items>

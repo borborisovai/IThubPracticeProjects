@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="menu.xsl"?>
+<menu>
+  <menuItem title="JavaScript">
+    <menuItem title="EcmaScript-262" href="#"/>
+    <menuItem title="DOM/BOM" href="#"/>
+    <menuItem title="Node.js" href="#"/>
+    <menuItem title="Frameworks">
+      <menuItem title="Angular" href="#"/>
+      <menuItem title="React" href="#"/>
+      <menuItem title="Vue.js" href="#"/>
+    </menuItem>
+  </menuItem>
+  <menuItem title="PHP">
+    <menuItem title="Basic" href="#"/>
+    <menuItem title="Advanced" href="#"/>
+    <menuItem title="Pro" href="#"/>
+  </menuItem>
+  <menuItem title="Python">
+    <menuItem title="Basic" href="#"/>
+    <menuItem title="GUI" href="#"/>
+    <menuItem title="Web" href="#"/>
+    <menuItem title="Advanced">
+      <menuItem title="Analytics" href="#"/>
+      <menuItem title="Machine Learning" href="#"/>
+      <menuItem title="AI">
+        <menuItem title="Deep Learning" href="#"/>
+      </menuItem>
+    </menuItem>
+  </menuItem>
+</menu>

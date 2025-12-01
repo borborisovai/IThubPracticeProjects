@@ -1,0 +1,23 @@
+{
+    "currentQuestion":0,
+    "questions":[
+        {
+            "title": "Вопрос 1",
+            "type":"radio",
+            "variables":["Вариант 1", "Вариант 2", "Вариант 3"],
+            "answers": ["Вариант 1"]
+        },
+                {
+            "title": "Вопрос 1",
+            "type":"check",
+            "variables":["Вариант 1", "Вариант 2", "Вариант 3"],
+            "answers": ["Вариант 1", "Вариант 2", "Вариант 3"]
+        },
+                {
+            "title": "Вопрос 1",
+            "type":"textbox",
+            "variables":[],
+            "answers": ["Вариант 1"]
+        }
+    ]
+}

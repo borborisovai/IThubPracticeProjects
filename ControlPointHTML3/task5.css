@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+.page-footer {
+	background-color: #dbbff5;
+	font-family: 'Segoe UI', Helvetica, sans-serif;
+	padding: 1rem;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+    align-items: self-end;
+}
+
+.page-footer p {
+	margin: 0;
+}
+
+.page-footer ul {
+	margin: 0;
+	padding: 0;
+}
+
+.page-footer li {
+	list-style: none;
+}
+
+.page-footer a {
+	color: #8700ff;
+	text-decoration: none;
+}

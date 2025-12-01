@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IopJssM81Oc=",
+  "success": true,
+  "projectFilePath": "/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/AiJailbreak.csproj",
+  "expectedPackageFiles": [
+    "/home/topa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

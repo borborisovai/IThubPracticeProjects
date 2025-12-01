@@ -1,0 +1,15 @@
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/bin/Debug/net9.0/AiJailbreak
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/bin/Debug/net9.0/AiJailbreak.deps.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/bin/Debug/net9.0/AiJailbreak.runtimeconfig.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/bin/Debug/net9.0/AiJailbreak.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/bin/Debug/net9.0/AiJailbreak.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.GeneratedMSBuildEditorConfig.editorconfig
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.AssemblyInfoInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.AssemblyInfo.cs
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.csproj.CoreCompileInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.sourcelink.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/refint/AiJailbreak.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/AiJailbreak.genruntimeconfig.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/ConsoleApp8/AiJailbreak/obj/Debug/net9.0/ref/AiJailbreak.dll
