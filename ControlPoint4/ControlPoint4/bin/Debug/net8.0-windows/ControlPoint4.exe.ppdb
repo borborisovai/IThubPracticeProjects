@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Author: topa
+#ControlPoint4.exe
+#Rating=1-5
+export PW_WINE_USE="PROTON_LG"
+export PW_PREFIX_NAME="DEFAULT"
+export PORTPROTON_NAME="ControlPoint4"
+export FILE_DESCRIPTION="ControlPoint4"
+export FILE_SHA256SUM="8c83ee208d737b252e70211e524a4e7c01c4fa6bcc506d17fdad0fb8dde68cdc"

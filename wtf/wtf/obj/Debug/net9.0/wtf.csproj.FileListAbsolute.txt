@@ -1,0 +1,15 @@
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/bin/Debug/net9.0/wtf
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/bin/Debug/net9.0/wtf.deps.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/bin/Debug/net9.0/wtf.runtimeconfig.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/bin/Debug/net9.0/wtf.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/bin/Debug/net9.0/wtf.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.GeneratedMSBuildEditorConfig.editorconfig
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.AssemblyInfoInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.AssemblyInfo.cs
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.csproj.CoreCompileInputs.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.sourcelink.json
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/refint/wtf.dll
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.pdb
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/wtf.genruntimeconfig.cache
+/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/obj/Debug/net9.0/ref/wtf.dll

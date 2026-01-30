@@ -108,6 +108,12 @@
     "TicketClass": "Бизнес"
   },
   {
+    "PassengerName": "Хиро Брайан",
+    "FlightNumber": "SU110",
+    "DepartureTime": "10-12-2025",
+    "TicketClass": "Эконом"
+  },
+  {
     "PassengerName": "Андрей Соколов",
     "FlightNumber": "SU111",
     "DepartureTime": "11-12-2025",

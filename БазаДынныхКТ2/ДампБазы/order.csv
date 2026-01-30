@@ -1,0 +1,8 @@
+"orderId","creationDateTime","receivingType","cost","status","clientPhoneNumber","EmployeeLogin","orderPositions"
+"1","2023-09-04 11:32:30.000000","Самовывоз","11520","Ожидает","+7(982)543-34-67","emp_MichailovMM","[
+  {""article"": 4, ""quantity"": 1, ""cost"": 9600}
+]"
+"2","2023-09-04 15:41:17.000000","Самовывоз","27720","Оплачен","+7(948)796-47-89","emp_AleksndrovAA","[
+  {""article"": 2, ""quantity"": 1, ""cost"": 11500},
+  {""article"": 3, ""quantity"": 1, ""cost"": 11600}
+]"

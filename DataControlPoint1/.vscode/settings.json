@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/topa/Documents/source/repo/IThubPracticeProjects/DataControlPoint1",
+            "binaryPath": "/home/topa/Documents/source/repo/IThubPracticeProjects/DataControlPoint1/meow",
+            "binaryArgs": []
+        }
+    ]
+}

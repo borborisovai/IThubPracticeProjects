@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XegwD2HKZjY=",
+  "success": true,
+  "projectFilePath": "/home/topa/Documents/source/repo/IThubPracticeProjects/wtf/wtf/wtf.csproj",
+  "expectedPackageFiles": [
+    "/home/topa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+      <nav>
+        <button data-script="task1">Task 1</button> |
+        <button data-script="task2">Task 2</button> |
+        <button data-script="task3">Task 3</button> |
+        <button data-script="task4">Task 4</button>
+      </nav>
+    </header>
+        <script>
+      // по фасту сгенереный гптшкой скрипт для запуска других скриптов :P
+      // при клике динамически загружает скрипт из ./<name>.js
+
+      (function(){
+        const loaded = new Set();
+        function loadScript(name) {
+          const path = `./${name}.js`;
+          // попытка динамического импорта как модуля
+          import(path)
+            .then(mod => {
+              if (mod && typeof mod.default === 'function') {
+                mod.default();
+              }
+              loaded.add(path);
+            })
+            .catch(() => {
+              // fallback: вставить как обычный script (если не поддержует модуль или не экспортирует)
+              if (loaded.has(path)) return;
+              const s = document.createElement('script');
+              s.src = path;
+              s.defer = true;
+              s.onload = () => loaded.add(path);
+              s.onerror = () => console.error('Не удалось загрузить', path);
+              document.body.appendChild(s);
+            });
+        }
+
+        document.querySelectorAll('button[data-script]').forEach(btn => {
+          btn.addEventListener('click', () => {
+            loadScript(btn.dataset.script);
+          });
+        });
+      })();
+    </script>
+</body>
+</html>

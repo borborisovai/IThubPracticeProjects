@@ -1,0 +1,12 @@
+"number","contractNum","creationDate","deliveryTime","fullCost","status","productList"
+"1","1","2023-08-15","10 дней","224500","Доставлено","[
+  {""article"": 1, ""quantity"": 10, ""cost"": 120000},
+  {""article"": 5, ""quantity"": 10, ""cost"": 104500}
+]"
+"2","2","2023-08-20","10 дней","174000","Доставлено","[
+  {""article"": 3, ""quantity"": 15, ""cost"": 174000}
+]"
+"3","2","2023-08-31","14 дней","163000","Повторная отправка","[
+  {""article"": 2, ""quantity"": 10, ""cost"": 115000},
+  {""article"": 4, ""quantity"": 5, ""cost"": 48000}
+]"
