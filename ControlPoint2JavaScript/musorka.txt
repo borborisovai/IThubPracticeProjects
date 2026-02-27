@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <script src="task1.js"></script>
+    <script src="task2.js"></script>
+    <script src="task3.js"></script>
+    <script src="task4.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+      <nav>
+        
+      </nav>
+    </header>
+    <main>
+        <div id="task2">
+            <h2></h2>
+            <input id="v1" value=1234>
+            <input id="b1" type=button value=test>
+            <div id="s1"></div>
+        </div>
+        
+    </main>
+</body>
+</html>
+
+const button = document.getElementById('b1').onclick = click_fun;
+
+function click_fun(){
+    myVar = parseInt(document.getElementById('v1').val(), 10);
+    document.getElementById('s1').text('Result : '+sumOfDigits(myVar));
+}
