@@ -4,7 +4,7 @@ function snakeMatrix(scale){
     for (let i = 0; i < scale; i++) {
         arr[i] = new Array(scale);
         for (let a = 0; a < scale; a++) {
-            arr[i][a] = number;
+            (i % 2) == 1 ? arr[i][scale - a - 1] = number : arr[i][a] = number;
             number++;
         }
     }
