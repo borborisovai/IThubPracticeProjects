@@ -1,0 +1,7 @@
+.pytest_cache
+__pycache__
+.idea
+*.egg-info
+venv
+python_kt_2/web/temp
+
