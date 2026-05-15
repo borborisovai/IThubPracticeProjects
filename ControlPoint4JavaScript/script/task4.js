@@ -1,26 +1,23 @@
-// Код взятый из интернета https://stackoverflow.com/questions/13955738/javascript-get-the-second-digit-from-a-number
-function getDigit(number, n) {
-  return Math.floor((number / Math.pow(10, n - 1)) % 10);
-}
-
-function getDigitCount(number) {
-  return Math.max(Math.floor(Math.log10(Math.abs(number))), 0) + 1;
-}
-
 // Мой код
-function sumOfDigits(digits){
-    let result = 0;
-    console.log(digits);
-    for (let i = 0; i < getDigitCount(digits)+1; i++) {
-        digit = getDigit(digits, i)
-        result += digit;
-    }
-    return result;
+let users = [];
+
+function AddUser(firstname, lastname, age) {
+  let user = {
+    id: length(users) + 1,
+    firstname: firstname,
+    lastname: lastname,
+    age: age,
+  };
+  users.push(user);
 }
 
-function Task4(){
-  const input = document.querySelector("#task1 input");
-  const output = document.querySelector("#task1 h3");
+function UpdateUser(id, firstname = "", lastname = "", age = "") {}
+
+function DeleteUser(id) {}
+
+function Task4() {
+  const input = document.querySelector("#task4 input");
+  const output = document.querySelector("#task4 h3");
 
   output.innerText = "Ответ: " + sumOfDigits(input.valueAsNumber);
 }
